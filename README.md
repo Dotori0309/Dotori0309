@@ -27,7 +27,7 @@ Java/Spring 기반 백엔드 개발에 관심이 많고, 프론트엔드(React, 
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
 | [smspring](https://github.com/Dotori0309/smspring) | Spring Boot 기반 중고거래 플랫폼 (팀 프로젝트) | Java, Spring Boot, MyBatis, MySQL |
-| [SR_Projetc](https://github.com/Dotori0309/SR_Projetc) | 선문대 포털 경량화 크롬 확장 프로그램 | JavaScript, Chrome Extension API |
+| [SR_Project](https://github.com/Dotori0309/SR_Project) | 선문대 포털 경량화 크롬 확장 프로그램 | JavaScript, Chrome Extension API |
 | [Nextjs-Connect-MongoDB](https://github.com/Dotori0309/Nextjs-Connect-MongoDB-main) | Next.js + MongoDB 회원가입/상품 구매 사이트 | TypeScript, Next.js, MongoDB |
 | [AlgoPython](https://github.com/Dotori0309/AlgoPython) | Python 알고리즘 구현 모음 | Python |
 
