@@ -35,4 +35,9 @@ Java/Spring 기반 백엔드 개발에 관심이 많고, 프론트엔드(React, 
 
 ### 📊 GitHub Stats
 
-![Dotori0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dotori0309&show_icons=true&theme=default&hide_border=true)
+<div align="center">
+
+![Dotori0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dotori0309&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dotori0309&layout=compact&hide_border=true&langs_count=8)
+
+</div>
