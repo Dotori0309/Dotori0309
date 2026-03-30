@@ -33,12 +33,3 @@ Java/Spring 기반 백엔드 개발에 관심이 많고, 프론트엔드(React, 
 | [smspring](https://github.com/Dotori0309/smspring) | Spring Boot 기반 중고거래 플랫폼 | Java, Spring Boot, MyBatis, MySQL |
 | [StoryTeller](https://github.com/Dotori0309/StoryTeller) | AI 기반 스토리 학습 플랫폼 (퀴즈/어휘/TTS/STT) | Spring Boot, Spring AI, OpenAI, MyBatis |
 | [Auctionary](https://github.com/Dotori0309/Auctionary) | 실시간 경매 플랫폼 | Spring Boot, WebSocket, MyBatis, MySQL |
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Dotori0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dotori0309&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dotori0309&layout=compact&hide_border=true&langs_count=8)
-
-</div>
