@@ -26,10 +26,12 @@ Java/Spring 기반 백엔드 개발에 관심이 많고, 프론트엔드(React, 
 
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
-| [smspring](https://github.com/Dotori0309/smspring) | Spring Boot 기반 중고거래 플랫폼 (팀 프로젝트) | Java, Spring Boot, MyBatis, MySQL |
-| [SR_Project](https://github.com/Dotori0309/SR_Project) | 선문대 포털 경량화 크롬 확장 프로그램 | JavaScript, Chrome Extension API |
-| [Nextjs-Connect-MongoDB](https://github.com/Dotori0309/Nextjs-Connect-MongoDB-main) | Next.js + MongoDB 회원가입/상품 구매 사이트 | TypeScript, Next.js, MongoDB |
-| [AlgoPython](https://github.com/Dotori0309/AlgoPython) | Python 알고리즘 구현 모음 | Python |
+| [RPA_Platform](https://github.com/Dotori0309/RPA_Platform) | 블록코딩 기반 RPA 자동화 플랫폼 + 마켓플레이스 | Spring Boot, Next.js, OpenAI API, MySQL |
+| [DisasterLiveResponse](https://github.com/Dotori0309/DisasterLiveResponse) | 재난 실시간 대응 시스템 (지도 기반 모니터링) | Spring Boot, WebSocket, SSE, WebRTC, Kakao Map |
+| [SoulLog](https://github.com/Dotori0309/SoulLog) | AI 감성 일기 플랫폼 (멀티모달 감정 분석) | Spring Boot, Spring AI, OpenAI GPT-4o, JPA |
+| [SMU_P_Schedule](https://github.com/Dotori0309/SMU_P_Schedule) | 팀 협업 프로젝트 관리 플랫폼 (칸반보드) | Next.js 15, Spring Boot, JWT, WebSocket |
+| [smspring](https://github.com/Dotori0309/smspring) | Spring Boot 기반 중고거래 플랫폼 | Java, Spring Boot, MyBatis, MySQL |
+| [Auctionary](https://github.com/Dotori0309/Auctionary) | 실시간 경매 플랫폼 | Spring Boot, WebSocket, MyBatis, MySQL |
 
 ### 📊 GitHub Stats
 
