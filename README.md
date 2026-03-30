@@ -31,6 +31,7 @@ Java/Spring 기반 백엔드 개발에 관심이 많고, 프론트엔드(React, 
 | [SoulLog](https://github.com/Dotori0309/SoulLog) | AI 감성 일기 플랫폼 (멀티모달 감정 분석) | Spring Boot, Spring AI, OpenAI GPT-4o, JPA |
 | [SMU_P_Schedule](https://github.com/Dotori0309/SMU_P_Schedule) | 팀 협업 프로젝트 관리 플랫폼 (칸반보드) | Next.js 15, Spring Boot, JWT, WebSocket |
 | [smspring](https://github.com/Dotori0309/smspring) | Spring Boot 기반 중고거래 플랫폼 | Java, Spring Boot, MyBatis, MySQL |
+| [StoryTeller](https://github.com/Dotori0309/StoryTeller) | AI 기반 스토리 학습 플랫폼 (퀴즈/어휘/TTS/STT) | Spring Boot, Spring AI, OpenAI, MyBatis |
 | [Auctionary](https://github.com/Dotori0309/Auctionary) | 실시간 경매 플랫폼 | Spring Boot, WebSocket, MyBatis, MySQL |
 
 ### 📊 GitHub Stats
